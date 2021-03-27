@@ -5,14 +5,10 @@ viviendo en todo el mundo
 
 Master 1
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Master 2
-=======
+
 Experimento 1
->>>>>>> 2f38ddb (Experimento 1)
-=======
+
 Experimento 2
->>>>>>> a22c370 (Experimento 2)
 
 Hoy hablaremos de su vida y obra maestra.
